@@ -1,0 +1,5 @@
+.draggable-button {
+  padding: 10px;
+  cursor: grab;
+  border: 4px solid green;
+}
